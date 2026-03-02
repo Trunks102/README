@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi there👋
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&left=true&vCenter=true&width=800&lines=Hi+I'm+Mac;Aspiring+Software+Engineer;UI%2FUX+Enthusiast;DSA+Focused+Builder)
+
 # 💫 About Me:
 🧠 I’m Oliver, a student who lives life in full throttle mode, balancing code, creativity, and competition like a well-tuned machine🔥<br><br>🏎️ I breathe speed and strategy through every lap of Formula 1, where precision, risk, and relentless ambition define the game💨<br><br>👑 Race weekends are sacred to me, especially when legends like Lewis Hamilton and rising icons like Max Verstappen battle for milliseconds that rewrite history⏱️<br><br>⚽ Football fuels my competitive spirit, whether it’s the electric nights of the Premier League or the grand stage of the FIFA World Cup🌍<br><br>🐐 I admire greatness in motion, from the artistry of Lionel Messi to the relentless drive of Cristiano Ronaldo🔥<br><br>💻 Beyond sports, I’m obsessed with building - crafting clean UI/UX experiences, thinking like a product strategist, and designing systems that don’t just work but win 🎨<br><br>📈 I believe in discipline, momentum, and playing the long game - whether it’s in code, career, or competition⚡<br><br>✨Speed inspires me, strategy defines me, and ambition drives me - on the track, on the field, and in life🏁
 
@@ -16,6 +19,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-## 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trunks102&theme=tokyo-night&hide_border=true)
