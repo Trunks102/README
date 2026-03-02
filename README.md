@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🧠🔥I’m Oliver, a student who lives life in full throttle mode, balancing code, creativity, and competition like a well-tuned machine<br><br>🏎️💨I breathe speed and strategy through every lap of Formula 1, where precision, risk, and relentless ambition define the game<br><br>⏱️👑Race weekends are sacred to me, especially when legends like Lewis Hamilton and rising icons like Max Verstappen battle for milliseconds that rewrite history<br><br>⚽🌍Football fuels my competitive spirit, whether it’s the electric nights of the Premier League or the grand stage of the FIFA World Cup<br><br>🐐🔥I admire greatness in motion, from the artistry of Lionel Messi to the relentless drive of Cristiano Ronaldo<br><br>💻🎨Beyond sports, I’m obsessed with building - crafting clean UI/UX experiences, thinking like a product strategist, and designing systems that don’t just work but win <br><br>📈⚡I believe in discipline, momentum, and playing the long game - whether it’s in code, career, or competition<br><br>🏁✨Speed inspires me, strategy defines me, and ambition drives me - on the track, on the field, and in life
+🧠 I’m Oliver, a student who lives life in full throttle mode, balancing code, creativity, and competition like a well-tuned machine🔥<br><br>🏎️ I breathe speed and strategy through every lap of Formula 1, where precision, risk, and relentless ambition define the game💨<br><br>👑 Race weekends are sacred to me, especially when legends like Lewis Hamilton and rising icons like Max Verstappen battle for milliseconds that rewrite history⏱️<br><br>⚽ Football fuels my competitive spirit, whether it’s the electric nights of the Premier League or the grand stage of the FIFA World Cup🌍<br><br>🐐 I admire greatness in motion, from the artistry of Lionel Messi to the relentless drive of Cristiano Ronaldo🔥<br><br>💻 Beyond sports, I’m obsessed with building - crafting clean UI/UX experiences, thinking like a product strategist, and designing systems that don’t just work but win 🎨<br><br>📈 I believe in discipline, momentum, and playing the long game - whether it’s in code, career, or competition⚡<br><br>✨Speed inspires me, strategy defines me, and ambition drives me - on the track, on the field, and in life🏁
 
 
 ## 🌐 Socials:
@@ -11,12 +11,6 @@
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trunks102&theme=radical&hide_border=true)
-
-## 📊 GitHub Stats
-![Doom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trunks102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Trunks102&theme=onedark&no-frame=true&row=1)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Hi+I'm+Mac;Aspiring+Software+Engineer;UI%2FUX+Enthusiast;DSA+Focused+Builder)
 
