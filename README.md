@@ -15,7 +15,5 @@ Hi there👋
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trunks102&theme=radical&hide_border=true)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&left=true&vCenter=true&width=800&lines=Hi+I'm+Mac;Aspiring+Software+Engineer;UI%2FUX+Enthusiast;DSA+Focused+Builder)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
