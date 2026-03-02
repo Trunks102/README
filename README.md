@@ -1,4 +1,3 @@
-Hi there👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&left=true&vCenter=true&width=800&lines=Hi+I'm+Mac;Aspiring+Software+Engineer;UI%2FUX+Enthusiast;DSA+Focused+Builder)
 
